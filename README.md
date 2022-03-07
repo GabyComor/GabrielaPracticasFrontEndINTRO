@@ -15,9 +15,9 @@ La página debe de ser responsive para poderla ver desde el celular.
 La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 - **Practicas**
-	- [Toma de requerimientos](./1.-requerimientos.doc)
+  - [Toma de requerimientos](./1.-requerimientos.doc)
   - [Crea tu buyer persona](./2.-Persona.jpg)
-	- [Publico objetivo](./3.-publicoObjetivo.png)
-	- [Crea tu primer Wireframe UX](./wireframe.pdf)
+  - [Publico objetivo](./3.-publicoObjetivo.png)
+  - [Crea tu primer Wireframe UX](./wireframe.pdf)
 
 * GitHub: [GabyComor](https://https://github.com/GabyComor)
